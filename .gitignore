@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Xcode Playground
+timeline.xctimeline
+playground.xcworkspace/
+xcuserdata/
+
+# Swift Package Manager (플레이그라운드에 있을 경우)
+.swiftpm/
+.build/
+
+# 기타 임시파일
+*.swp
+*.lock
+*.tmp
